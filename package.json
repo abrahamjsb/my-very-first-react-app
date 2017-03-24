@@ -1,0 +1,24 @@
+{
+  "name": "my-very-first-react-app",
+  "version": "1.0.0",
+  "description": "This is just a project intend to play with React library and others features related",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamjsb/my-very-first-react-app.git"
+  },
+  "keywords": [
+    "react",
+    "frontend",
+    "development"
+  ],
+  "author": "Abraham Sánchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrahamjsb/my-very-first-react-app/issues"
+  },
+  "homepage": "https://github.com/abrahamjsb/my-very-first-react-app#readme"
+}

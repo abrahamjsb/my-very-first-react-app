@@ -65,8 +65,7 @@ a, a:hover {
   list-style: none;
 }
 .action-list ul li a {
-  padding: .5em 1em .5em 3em;
-  border-bottom: solid 1px #DDDDDD;
+  padding: 1em 1em 1em 2em;
 
 }
 
@@ -75,6 +74,11 @@ a, a:hover {
   -webkit-display:flex;
   display: flex;
 }
+
+.hide {
+  display: none !important;
+}
+
 @media screen and (max-width: 600px) {
   .container {
     width: 90%;
